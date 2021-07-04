@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 @import "~normalize.css";
 
 @import "header";
@@ -7,15 +7,14 @@
 @import "table";
 @import "dashboard";
 
-
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
-    font-family: 'Roboto', sans-serif;
+body {
+    font-family: "Roboto", sans-serif;
     font-style: 12px;
 }
 
@@ -26,4 +25,3 @@ body{
     max-width: 100%;
     font-style: 0.8rem;
 }
-
